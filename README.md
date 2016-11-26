@@ -1,2 +1,2 @@
-# vocab-flash-cards
-Vocabulary flash cards to learn a foreign language
+# dutch-flash-cards
+Learn Dutch vocabulary ! With English/Nederlands and Nederlands/English flash cards
