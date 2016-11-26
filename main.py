@@ -1,5 +1,6 @@
 vocab = (
     ("that we discussed", "die wie hebben gesproken over"),
+    ("dog", "hond"),
     ("attention", "aandacht"),
     ("supportive; encourageing", "aanmoedigend"),
     ("liability", "aansprakelijkeid"),
